@@ -13,7 +13,6 @@ myupdate
 gitupdate
 eclipse
 web githup
-    sexsexsexsex
-   5877
+5877
 </body>
 </html>
